@@ -36,7 +36,9 @@ Dalam sebuah Arduino Sensor Training Kit terdapat 6 jenis warna garis tepi yang 
 
 Sedangkan satu warna lagi yaitu hitam digunakan untuk modul DT-AVR UNO R3, Grove Base Shield, dan power supply 12V. Setiap komponen Grove yang terdapat Arduino Sensor Kit akan bertuliskan nama komponen, modul Grove, dan petunjuk pin dengan tampilan seperti gambar dibawah ini.
 
+<p align="center">
 <img src="/images/Grove.jpg" height="250">
+</p>
 
 Alat pendukung yang terdapat pada trainer kit ini adalah sebagai berikut :
 1.  Rubber Blow, digunakan untuk menguji respon dari Temperature & Humidity sensor.
