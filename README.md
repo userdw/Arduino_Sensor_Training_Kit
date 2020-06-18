@@ -23,7 +23,9 @@ Modul ini merupakan Arduino UNO clone dengan beberapa perbedaan seperti mengguna
 
 Sedangkan Grove Base Shield V2 for Arduino merupakan modul add-on/tambahan untuk Arduino yang dipasangkan diatas modul Arduino tanpa menggunakan kabel. Berikut adalah gambaran spesifikasi dari modul Grove Base Shield:
 
+<p align="center">
 <img src="/images/Grove_Base_Shield.png" height="300">
+</p>
 
 Dalam sebuah Arduino Sensor Training Kit terdapat 6 jenis warna garis tepi yang mewakili setiap fungsi modul Grove. Warna tersebut berguna untuk memudahkan dalam membedakan jenis komponen. Berikut adalah rincian warna yang tersedia dalam Arduino Sensor Training Kit:
 1.	Bergaris kuning merupakan komponen actuators sebanyak 5 modul,
