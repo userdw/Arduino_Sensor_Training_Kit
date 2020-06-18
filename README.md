@@ -45,15 +45,19 @@ Sedangkan satu warna lagi yaitu hitam digunakan untuk modul DT-AVR UNO R3, Grove
 </p>
 
 Alat pendukung yang terdapat pada trainer kit ini adalah sebagai berikut :
-1.  Rubber Blow, digunakan untuk menguji respon dari Temperature & Humidity sensor.
+1. Rubber Blow, digunakan untuk menguji respon dari Temperature & Humidity sensor.
 <img src="/images/Rubber_Blow.jpg" height="150">
-2.  Wadah Plastik, digunakan untuk menguji respon dari Soil & Moisture sensor yang diisi dengan tanah lembab dan tanah kering.
+2. Wadah Plastik, digunakan untuk menguji respon dari Soil & Moisture sensor yang diisi dengan tanah lembab dan tanah kering.
 <img src="/images/Wadah_Plastik.jpg" height="150">
-3.  Kunci T, digunakan untuk melepas dan memasang baut modul sensor yang pengujiannya harus diluar Arduino Sensor Training Kit seperti temperature & humadity sensor, soil & moisture sensor, water sensor, 3 axis accelerometer, vibration sensor, and tilt switch.
+3. Kunci T, digunakan untuk melepas dan memasang baut modul sensor yang pengujiannya harus diluar Arduino Sensor Training Kit seperti temperature & humadity sensor, soil & moisture sensor, water sensor, 3 axis accelerometer, vibration sensor, and tilt switch.
 <img src="/images/Kunci_T.png" height="150">
-4.  Botol Pipet, digunakan untuk menguji respon dari water sensor.
+4. Botol Pipet, digunakan untuk menguji respon dari water sensor.
 <img src="/images/Pipet.png" height="150">
-5.  DC Adaptor 5V, digunakan untuk memberikan supply daya ke Arduino, apabila menggunakan catu daya dari USB maka lepaskan DC Adaptor dari Arduino dan sebaliknya.
+5. DC Adaptor 5V, digunakan untuk memberikan supply daya ke Arduino, apabila menggunakan catu daya dari USB maka lepaskan DC Adaptor dari Arduino dan sebaliknya.
 <img src="/images/Adaptor_5V.jpg" height="150">
 
 Peralatan pendukung yang disediakan dalam Arduino Sensor Training Kit  seperti rubber blow, wadah plastik, dan botol pipet digunakan untuk pengujian respon sensor. Wadah plastik akan digunakan dalam pengujian respon soil & moisture sensor. Satu sisi wadah diisi dengan tanah lembab, sedangkan satu sisi lainnya akan diisi dengan tanah kering. Ilustrasi pengujian respon sensor ditunjukkan pada gambar dibawah ini.
+
+<p align="center">
+<img src="/images/Pengujian_Moisture_Sensor.jpg" height="200">
+</p>
