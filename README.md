@@ -27,6 +27,10 @@ Sedangkan Grove Base Shield V2 for Arduino merupakan modul add-on/tambahan untuk
 <img src="/images/Grove_Base_Shield.png" height="300">
 </p>
 
+<p align="center">
+<img src="/images/Hardware_overview.jpg" height="300">
+</p>
+
 Dalam sebuah Arduino Sensor Training Kit terdapat 6 jenis warna garis tepi yang mewakili setiap fungsi modul Grove. Warna tersebut berguna untuk memudahkan dalam membedakan jenis komponen. Berikut adalah rincian warna yang tersedia dalam Arduino Sensor Training Kit:
 1.	Bergaris kuning merupakan komponen actuators sebanyak 5 modul,
 2.	Bergaris biru merupakan komponen inputs sebanyak 10 modul,
